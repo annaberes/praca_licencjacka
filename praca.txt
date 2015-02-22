@@ -2,4 +2,5 @@ Somatosensory cortex plasticity in humans and animals.
 ------------------------------------------------------
 
 1. INTRODUCTION.	
-1.1. 
+1.1.Somatosensory cortex.Somatosensory cortex is the cortex dependent on 
+the somatosensory stimuli characteristics. 
